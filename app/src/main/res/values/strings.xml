@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SelectionControls</string>
+    <string name="label_liga_desliga">Liga/Desliga</string>
+    <string name="label_gosto_de_sorvete">Gosto de Sorvete</string>
+    <string name="label_opcao1">Opção1</string>
+    <string name="label_opcao3">opção 3</string>
+    <string name="label_opcao2">opção 2</string>
+</resources>
